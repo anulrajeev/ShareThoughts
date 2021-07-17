@@ -1,4 +1,18 @@
+ShareThoughts
+===
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+
+<a href="http://linkedin-clone-f386c.web.app/"> Click here </a> to view the deployed project
+
+## Main Features 
+
+Login Page
+<img src="https://github.com/anulrajeev/readme_images/blob/master/sharethoughts_login.png?raw=true" height=500px>
+
+
+Facility to post messages
+<img src="https://github.com/anulrajeev/readme_images/blob/master/sharethoughts_main.png?raw=true" height=500px>
 
 ## Available Scripts
 
